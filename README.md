@@ -61,7 +61,7 @@ My goal is to create systems that are not only efficient but also intuitive and 
 - **LinkedIn:** [linkedin.com/in/annmarioberholzer](https://www.linkedin.com/in/annmarioberholzer)  
 - **GitHub:** [github.com/Ann-Mari-Oberholzer](https://github.com/Ann-Mari-Oberholzer)  
 - **Phone:** 061 875 9381  
-- **[View My CV](https://github.com/Ann-Mari-Oberholzer/Ann-Mari-Oberholzer/blob/main/Ann-Mari%20Oberholzer%CV.pdf)**  
+- **[View My CV](https://github.com/Ann-Mari-Oberholzer/Ann-Mari-Oberholzer/blob/main/Ann-Mari%20Oberholzer%20CV.pdf)**  
 
 ---
 
